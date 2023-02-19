@@ -6,5 +6,23 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.2"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaadUrRehmanBaig/dashboard-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaadUrRehmanBaig/dashboard-backend/issues"
+  },
+  "homepage": "https://github.com/SaadUrRehmanBaig/dashboard-backend#readme",
+  "description": ""
 }
